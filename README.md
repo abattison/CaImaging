@@ -1,4 +1,4 @@
-# CaImaging
+# Mesoscopic CaImaging
 Matlab scripts for analyzing mesoscopic Ca Imaging data 
 
 - PlotdFoF.m - input .xlsx files of calcium data from Fiji. Outputs graph of calcium signal 
